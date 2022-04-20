@@ -1,2 +1,2 @@
-# Django-Rest-Api
+# Story Line Rest Api
 A blog restful api created in django 3
